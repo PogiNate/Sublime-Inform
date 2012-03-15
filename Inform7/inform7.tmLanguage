@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>i7x</string>
+		<string>inform</string>
 	</array>
 	<key>name</key>
 	<string>Inform7</string>
