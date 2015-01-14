@@ -6,6 +6,7 @@
 	<array>
 		<string>i7x</string>
 		<string>inform</string>
+		<string>ni</string>
 	</array>
 	<key>name</key>
 	<string>Inform7</string>
